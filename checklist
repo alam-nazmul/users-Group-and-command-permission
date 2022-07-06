@@ -1,0 +1,11 @@
+1. User Maly and Nazmul can't access ROOT files and ROOT privileges.
+
+2. User Ubuntu and Tanvir can't access ROOT files and ROOT privileges.
+
+3. "/home/ubuntu/secret" can accessible from only tanvir user.
+
+4. User Tanvir can execute all command without root permission.
+
+5. User Ubuntu can execute all command with root permission.
+
+6. User Nazmul and Maly can execute specifice command without root permission.

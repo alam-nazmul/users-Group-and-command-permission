@@ -1,0 +1,15 @@
+1. Create four users or more, each with their own home directory.
+
+2. Form a minimum of two test groups.
+
+3. Make numerous directories for solitary users.
+
+4. Only a limited number of users will have access to the subject directory. All users can no longer access this directory.
+
+5. Only a limited number of users will have access to the subject file. All users can no longer access this file.
+
+6. A few users have access to root users' privileges. Other users are unable to access ROOT.
+
+7. Other users have the ability to run certain instructions.
+
+8. Every incident is recorded.
